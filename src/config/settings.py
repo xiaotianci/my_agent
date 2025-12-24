@@ -1,0 +1,1 @@
+# Pydantic配置类
