@@ -1,5 +1,6 @@
 <details>
 <summary><b>📁 点击展开完整项目目录结构</b></summary>
+
 ```text
 comprehensive-agent-system/
 ├── .env                    # 环境变量 (API密钥、数据库URL等)
@@ -94,4 +95,5 @@ comprehensive-agent-system/
     ├── docker-compose.yml
     └── nginx.conf
 ```
+
 </details>
